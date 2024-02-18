@@ -1,0 +1,27 @@
+.header_class
+{
+    display: flex;
+    justify-content: space-between;
+    grid-column-start: 1;
+    grid-column-end: 6;
+    /* border: 1px solid black; */
+
+}
+.right_head
+{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.left_head
+{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.header_class img
+{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}

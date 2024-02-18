@@ -1,0 +1,9 @@
+.invoice_class
+{
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row-start: 8;
+    grid-row-end: 13;
+    border: 1px solid black;
+    background: rgb(63, 61, 61);
+}

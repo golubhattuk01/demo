@@ -1,0 +1,14 @@
+.search_box_outer
+{
+    grid-column-start: 2;
+    grid-column-end: 5;
+    
+}
+.search_box
+{
+    height: 100%;
+    width: 95%;
+    padding-left: 30px;
+    font-size: large;
+    background: rgb(63, 61, 61);
+}

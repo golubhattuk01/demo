@@ -1,0 +1,7 @@
+.revenue_class
+{
+    border: 1px solid black;
+    grid-row-start: 3;
+    grid-row-end: 9;
+    background-color: black;
+}

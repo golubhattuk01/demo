@@ -1,0 +1,13 @@
+.profile_class
+{
+    background-color: black;
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row-start: 3;
+    grid-row-end: 7;
+    border: 1px solid black;
+}
+.profile_class h2 , h4{
+    color: white;
+    margin-left: 15px;
+}
